@@ -19,4 +19,5 @@ Run it here: https://expo.io/@geofreeman368/amplify-auth
 - Redux
 - Amplify 
 
-![image](https://user-images.githubusercontent.com/63067465/85236187-6def5080-b413-11ea-9ac8-d10d245becb6.png)
+![image](https://user-images.githubusercontent.com/63067465/85236292-ad6a6c80-b414-11ea-81c3-5c84281c4db8.png)
+
