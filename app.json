@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Authentication flow example using Amazon Amplify",
+    "githubUrl": "https://github.com/369geofreeman/Amplify-Authentication"
   }
 }
